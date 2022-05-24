@@ -9,10 +9,10 @@ Each section contains its own markdown file for detailed description. This is th
 
 ## Section A: Code Review 
 
-Given a question that a hypothetical student tasks and the student’s submitted code. Required to answer the question and review their code’s correctness, efficiency, style and documentation.
+- ### Option 2: Java Task : Link to solution- [SectionA](SectionA/README.md)
 
-### Option 2: Java Task : Link to solution- [SectionA](SectionA/README.md)
-
-## Section B: Personal Project
+## Section B: Personal Project- [SectionB](SectionB/README.md)
 
 ## Section C: Code Challenge
+- ### Option 1: Say The Number : Link to solution- [SectionC](SectionC/README.md)
+
